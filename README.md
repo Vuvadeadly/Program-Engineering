@@ -35,7 +35,7 @@ cat ~/.ssh/id_ed25519.pub
 
 Содержимое публичного ключа скопировано и добавлено в настройках GitHub.
 
-Ключ успешно зарегистрирован в аккаунте GitHub под названием `Ubuntu_VB`.
+Ключ успешно зарегистрирован в аккаунте GitHub.
 
 <img width="940" height="705" alt="image" src="https://github.com/user-attachments/assets/0af8f4ca-ee8e-4211-995f-72cd9a1265f4" />
 
